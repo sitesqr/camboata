@@ -9270,7 +9270,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: maroon
+  color: maroon;
 }
 
 a.text-primary:hover, a.text-primary:focus {
