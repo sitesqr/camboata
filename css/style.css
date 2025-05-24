@@ -2366,7 +2366,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: maroon;
+  background-color: #4c1b05;
   border-color: #000000;
 }
 
@@ -9270,7 +9270,8 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: maroon;
+  color: #4c1b05;
+  font-family:cursive;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9543,7 +9544,7 @@ h6 {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: maroon
+  color: #4c1b05
 }
 
 @media (max-width: 991.98px) {
