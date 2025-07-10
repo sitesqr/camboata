@@ -7185,6 +7185,7 @@ button.bg-dark:focus {
   position: relative !important;
   margin-bottom: 1.5em;
   border-radius: 1em;
+  box-shadow: rgba(80, 80, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
 .position-absolute {
@@ -9273,7 +9274,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #4c1b05;
+  color: #ffffff;
   font-family:cursive;
 }
 
