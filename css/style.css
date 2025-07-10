@@ -9274,7 +9274,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #ffffff;
+  color: #fff !important;
   font-family:cursive;
 }
 
